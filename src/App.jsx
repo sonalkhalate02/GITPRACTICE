@@ -17,8 +17,7 @@ function App() {
         >
           Increment
         </button>
-        <button 
-          onClick={() => setCount(count - 1)} 
+        <button onClick={() => setCount(count - 1)} 
           style={{ padding: '10px 20px', fontSize: '18px' }}
         >
           Decrement
